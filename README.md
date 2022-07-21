@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**dreadderino1987/dreadderino1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I do at moment?
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning at BootCamps Europe to start a carreer as Web-Developer <br>
+- 🔭 Futher I’m currently working on some Project for IoT Business for digiblue GmbH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what can you expect from me?
+
+- 💬 Ask me about all about IT-Administration cause I'm a Microsoft Linux and Mac Supporter since over 15 Years.<br>
+           **Taking your business to the next level in IT is my passion!**
+
+### more and more and more
+
+- 📫 How to reach me: by Mail or at my [LinkedIn Profil](https://www.linkedin.com/in/sascha-dietrich-0a9600162/)<br>
+- 😄 Pronouns: Hey Ditsche, what's up <br>
+- ⚡ Fun fact: semi professional guitar player. Not perfect, but funny :-)
