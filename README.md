@@ -13,5 +13,5 @@
 ### more and more and more
 
 - 📫 How to reach me: by Mail or at my [LinkedIn Profil](https://www.linkedin.com/in/sascha-dietrich-0a9600162/)<br>
-- 😄 Pronouns: Hey Ditsche, what's up <br>
+- 😄 Pronouns: Hey Dittsche, what's up <br>
 - ⚡ Fun fact: semi professional guitar player. Not perfect, but funny :-)
