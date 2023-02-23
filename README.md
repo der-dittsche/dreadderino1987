@@ -3,7 +3,6 @@
 ### What I do at moment?
 
 - 🌱 I’m currently learning at BootCamps Europe to start a carreer as Web-Developer <br>
-- 🔭 Futher I’m currently working on some Project for IoT Business for digiblue GmbH
 
 ### what can you expect from me?
 
