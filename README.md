@@ -2,7 +2,7 @@
 
 ### What I do at moment?
 
-- 🌱 I’m currently learning at BootCamps Europe to start a carreer as Web-Developer <br>
+- 🌱 I’m currently practice my knowlegde in developing by doing different project. For example I refactor a Website from a association for sustainability <br>
 
 ### what can you expect from me?
 
