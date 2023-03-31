@@ -6,6 +6,8 @@
 
 ### what can you expect from me?
 
+![](https://www.codewars.com/users/dreadderino1987/badges/small)
+
 - 💬 Ask me about all about IT-Administration cause I'm a Microsoft Linux and Mac Supporter since over 15 Years.<br>
            **Taking your business to the next level in IT is my passion!**
 
